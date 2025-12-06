@@ -1,0 +1,17 @@
+{
+  "name": "ecom-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "lowdb": "^6.0.1",
+    "nanoid": "^4.0.2",
+    "lodash": "^4.17.21"
+  }
+}
